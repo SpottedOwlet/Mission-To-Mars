@@ -1,16 +1,23 @@
 body {
     background-color: rgb(221 221 221);
+    background-image: url("images/andromeda.jpg");
+    image-orientation: from-image;
 }
 h2{
   color:#693e06;
 }
-h4{
+h3{
   color:#965909;
 }
 p{
   color:#d28521;
 }
-
+#mid {
+  background-color: lightsteelblue;
+}
+#lower {
+  background-color: lightsteelblue;
+}
 
 .jumbotron {
   background-image: url("images/mission-mars.jpg");
