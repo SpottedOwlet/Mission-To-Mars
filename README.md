@@ -21,7 +21,8 @@ Web scraping was done from the web-scraping friendly websites to obtain the late
 
       1. Use scraping module & python script to scrape new data.
       2. Store the scraped data into MongoDB.
-      3. Get the scraped data from MongoDB and then display it on the webpage with render_template & index.html
+      3. Get the scraped data from MongoDB and then display it on the webpage 
+         with render_template & index.html
     
 - The css, bootstrap were used to prettify the webpage.
 
