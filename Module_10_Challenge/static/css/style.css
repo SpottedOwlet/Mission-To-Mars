@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(221 221 221);
+}
+h2{
+  color:#693e06;
+}
+h4{
+  color:#965909;
+}
+p{
+  color:#d28521;
+}
+
+
+.jumbotron {
+  background-image: url("images/mission-mars.jpg");
+  background-size: cover;
+  text-align: center;
+  color:#f0c863;
+}
